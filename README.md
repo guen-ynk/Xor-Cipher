@@ -1,7 +1,7 @@
 # XorCpyher
 File Encryption/Decryption using XOR 
 
-Python and C implementation of Xor File Cypher can be found here
+Python, Numpy-Python, RUST and C implementation of Xor File Cypher can be found here
 
 Peformance can be compared, since both give time stamps.
 
